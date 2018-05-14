@@ -22,7 +22,7 @@ import java.text.MessageFormat;
  *        client.close();
  * </pre>
  *
- * @author andrey
+ * 
  */
 public class NewJerseyClient {
     private WebResource webResource;

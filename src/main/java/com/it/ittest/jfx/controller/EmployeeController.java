@@ -21,10 +21,7 @@ import java.io.IOException;
 import java.util.Date;
 import java.util.List;
 
-/**
- *
- * @author andrey
- */
+
 public class EmployeeController {
 
     private ObservableList<Employee> employeeData = FXCollections.observableArrayList();

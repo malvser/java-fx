@@ -8,10 +8,7 @@ import javafx.scene.Node;
 import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
 
-/**
- *
- * @author andrey
- */
+
 public class EmployeeEditDialog {
 
     private TableView<Employee> tableEmployees;
